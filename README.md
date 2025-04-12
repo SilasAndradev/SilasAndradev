@@ -5,6 +5,6 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,discord,django,git,github,godot,html,js,mysql,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,django,mysql,git,github,godot,cpp,py,vscode,discord&perline=14" />
   </a>
 </p>
