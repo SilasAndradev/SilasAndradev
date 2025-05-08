@@ -18,6 +18,6 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,django,postgresql,git,github,godot,cpp,py,vscode,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,django,postgresql,git,github,godot,c,cpp,py,vscode,discord&perline=14" />
   </a>
 </p>
