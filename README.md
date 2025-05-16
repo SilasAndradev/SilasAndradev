@@ -6,7 +6,8 @@ Hi, I'm a backend programmer with experience in Python and Django
 
 💬 If you want to get in touch with me: silasandrade.code@gmail.com
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silasandradev/)](https://www.linkedin.com/in/silasandradev/)
+[![Linkedin](https://img.shields.io/badge/-silasandradev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silasandradev/)](https://www.linkedin.com/in/silasandradev/)
+[![Gmail Badge](https://img.shields.io/badge/-silasandrade.code@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silasandrade.code@gmail.com)](mailto:silasandrade.code@gmail.com)
 
 ---
 
