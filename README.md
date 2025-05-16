@@ -1,14 +1,14 @@
-## Olá, meu nome é Silas Andrade!
+## Hello, my name is Silas Andrade!
 
-Olá, sou um programador backend com experiência em Python e Django
+Hi, I'm a backend programmer with experience in Python and Django
 
-🔭 Desenvolvi um site de notícias usando Python e Django para fazer o back-end e HTML, CSS e JS para fazer o frontend
+🔭 I developed a news website using Python and Django for the backend and HTML, CSS and JS for the frontend
 
-💬 Caso queira entrar em contato comigo, envie um e-mail: silasandrade.code@gmail.com
+💬 If you want to get in touch with me, send me an e-mail: silasandrade.code@gmail.com
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,django,fastapi,git,vscode,godot&perline=6&theme=dark" /></code>
 
