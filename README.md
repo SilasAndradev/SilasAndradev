@@ -16,4 +16,4 @@ Hi, I'm a backend programmer with experience in Python and Django
 
 ## ⭐ GitHub Stats
 
-![SilasAndradev's Stats](https://github-readme-stats.vercel.app/api?username=SilasAndradev&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![SilasAndradev's Stats](https://github-readme-stats.vercel.app/api?username=SilasAndradev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
