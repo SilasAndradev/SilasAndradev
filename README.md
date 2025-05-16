@@ -8,7 +8,7 @@
 
 🔭 Hi, I'm a backend programmer with experience in Python and Django
 
-🔭 I developed a news website using Python and Django for the backend and HTML, CSS and JS for the frontend
+🌱 I'm currently learning C#, .NET and FastAPI
 
 📫 Feel free to reach me out silasandrade.code@gmail.com
 
