@@ -10,7 +10,7 @@ Olá, sou um programador backend com experiência em Python e Django
 
 ## 🚀 Minhas Skills
 
-<code><img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,django,fastapi,git,github,vscode,godot,discord,linkedin&perline=6&theme=dark" /></code>
+<code><img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,django,fastapi,git,vscode,godot&perline=6&theme=dark" /></code>
 
 ---
 
