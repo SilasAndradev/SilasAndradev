@@ -40,6 +40,6 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linkedin,discord&perline=6&theme=dark" />
   </a>
 </p>
