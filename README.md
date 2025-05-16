@@ -6,9 +6,11 @@
   </ul>
 </div>
 
-Hi, I'm a backend programmer with experience in Python and Django
+🔭 Hi, I'm a backend programmer with experience in Python and Django
 
 🔭 I developed a news website using Python and Django for the backend and HTML, CSS and JS for the frontend
+
+📫 Feel free to reach me out silasandrade.code@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=silasandradev&theme=tokyonight" />
