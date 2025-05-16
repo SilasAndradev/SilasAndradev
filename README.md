@@ -7,13 +7,3 @@
 ![SilasAndradev's Stats](https://github-readme-stats.vercel.app/api?username=SilasAndradev&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
-  </ul>
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,c,cpp,cs,dotnet,py,django,fastapi,postgresql,mongodb,aws,docker,kubernetes,linux,windows,git,github,vscode,godot,discord,linkedin,twitter,notion&perline=6&theme=dark" />
-  </a>
-</p>
