@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-🔭 Hi, I'm a backend programmer with experience in Python and Django
+🔭 Hi, I'm a backend developer with experience in Python and Django
 
 🌱 I'm currently learning C#, .NET and FastAPI
 
