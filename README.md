@@ -8,7 +8,7 @@
 
 🔭 Hi, I'm a backend developer with experience in Python and Django
 
-🌱 I'm currently learning C#, .NET and FastAPI
+🌱 I'm currently learning Django Rest Framework
 
 📫 Feel free to reach me out silasandrade.code@gmail.com
 
