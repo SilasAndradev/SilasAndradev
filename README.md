@@ -6,8 +6,7 @@
   </ul>
 </div>
 
-🔭 Hi, I'm a backend developer with experience in Python and Django
-
+<!--🔭 Hi, I'm a backend developer with experience in Python and Django -->
 🌱 Estou aprendendo Django Ninja atualmente
 
 📫 Sinta-se à vontade para entrar em contato comigo silasandradee@outlook.com
