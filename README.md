@@ -2,15 +2,15 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Silas Andrade</h1></summary>
+    <summary><h1 style="display: inline-block">Oi 👋, eu sou Silas Andrade</h1></summary>
   </ul>
 </div>
 
 🔭 Hi, I'm a backend developer with experience in Python and Django
 
-🌱 I'm currently learning Django Rest Framework
+🌱 Estou aprendendo Django Ninja atualmente
 
-📫 Feel free to reach me out silasandradee@outlook.com
+📫 Sinta-se à vontade para entrar em contato comigo silasandradee@outlook.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=silasandradev&theme=tokyonight" />
@@ -21,13 +21,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">TTecnologia que eu conheço 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,django,fastapi,git,github,gitlab,vscode,godot&amp;perline=14">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,django,git,github,gitlab,vscode,godot&amp;perline=14">
   </a>
 </p>
 <!-- Connect with me -->
