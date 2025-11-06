@@ -7,7 +7,7 @@
 </div>
 
 <!--🔭 Hi, I'm a backend developer with experience in Python and Django -->
-🌱 Estou aprendendo Django Ninja atualmente
+🌱 Estou melhorando minhas habilidades em FastAPI.
 
 📫 Sinta-se à vontade para entrar em contato comigo silasandradee@outlook.com
 
@@ -27,6 +27,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,django,git,github,gitlab,vscode,godot&amp;perline=14">
+  </a>
+  <a href="https://gitlab.com/silas-andrade">
+      <img src="https://skillicons.dev/icons?i=gitlab&amp;perline=14">
   </a>
 </p>
 <!-- Connect with me -->
