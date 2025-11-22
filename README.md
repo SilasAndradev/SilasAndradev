@@ -7,7 +7,7 @@
 </div>
 
 <!--🔭 Hi, I'm a backend developer with experience in Python and Django -->
-🌱 Estou melhorando minhas habilidades em FastAPI.
+🌱 Estou melhorando minhas habilidades em Django.
 
 📫 Sinta-se à vontade para entrar em contato comigo silasandradee@outlook.com
 
