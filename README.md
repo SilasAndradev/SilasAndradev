@@ -38,11 +38,11 @@
 </div>
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/silas-andrade/" target="">
-    <img src="https://skillicons.dev/icons?i=linkedin&amp;perline=14">
+  <a href="https://www.linkedin.com/in/silas-andrade/">
+    <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
   <a href="https://gitlab.com/silas-andrade">
-      <img src="https://skillicons.dev/icons?i=gitlab&amp;perline=14">
+      <img src="https://skillicons.dev/icons?i=gitlab">
   </a>
 </p>
 
