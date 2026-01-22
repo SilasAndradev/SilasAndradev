@@ -2,7 +2,6 @@
 
 <h1 align="center">Oi 👋, eu sou Silas Andrade</h1>
 
----
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=silas-andrade&show_icons=true&theme=tokyonight" />
 - Estudando **Django** e desenvolvimento backend
@@ -12,7 +11,7 @@
 ### 📫 Contato
 - 📧 **Email:** silasandradee@outlook.com
 
----
+
 
 ### 🛠 Tecnologias que utilizo
 
