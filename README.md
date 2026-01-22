@@ -5,9 +5,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=silas-andrade&show_icons=true&theme=tokyonight"/>
 
--  Estudando **Django** e desenvolvimento backend
--  Criando projetos acadêmicos e pessoais
--  Buscando evoluir com consistência todos os dias
+-  🌱 Estudando **Django** e desenvolvimento backend
+-  🔭 Criando projetos acadêmicos e pessoais
+-  💬 Buscando evoluir com consistência todos os dias
 
 ### 🛠 Tecnologias que utilizo
 
