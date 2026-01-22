@@ -8,6 +8,7 @@
 -  🔭 Criando projetos acadêmicos e pessoais
 -  💬 Buscando evoluir com consistência todos os dias
 
+<h3 align="center">Oi 👋, eu sou Silas Andrade</h3>
 ### 🛠 Tecnologias que utilizo
 
 <p align="center">
