@@ -9,11 +9,6 @@
 -  Criando projetos acadêmicos e pessoais
 -  Buscando evoluir com consistência todos os dias
 
-### 📫 Contato
-- 📧 **Email:** silasandradee@outlook.com
-
-
-
 ### 🛠 Tecnologias que utilizo
 
 <p align="center">
