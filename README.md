@@ -17,8 +17,6 @@
   </a>
 </p>
 
----
-
 ### 🤝 Conecte-se comigo
 
 <p align="center">
