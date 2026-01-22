@@ -2,33 +2,15 @@
 
 <h1 align="center">Oi 👋, eu sou Silas Andrade</h1>
 
-<p align="center">
-  Estudante de tecnologia focado em desenvolvimento backend <br>
-  Atualmente aprofundando meus conhecimentos em <strong>Django</strong>.
-</p>
-
 ---
 
-### 🌱 Atualmente
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=silas-andrade&show_icons=true&theme=tokyonight" />
 - Estudando **Django** e desenvolvimento backend
 - Criando projetos acadêmicos e pessoais
 - Buscando evoluir com consistência todos os dias
 
 ### 📫 Contato
 - 📧 **Email:** silasandradee@outlook.com
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silas-andrade&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silas-andrade&layout=compact&langs_count=8&theme=tokyonight" />
-  </a>
-</p>
 
 ---
 
